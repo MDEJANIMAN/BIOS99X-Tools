@@ -1,0 +1,30 @@
+
+**BIOS999X — NEW TOOLS**
+
+</div>
+
+## ⚡ FITUR PREMIUM
+
+| No | Tools | Limit |
+|----|-------|-------|
+| 1 | 🔥 DDoS Attack | Unlimited |
+| 2 | 📱 Spam OTP | 50x Request |
+| 3 | 💬 Spam NGL | 50x Message |
+| 4 | 📢 Spam Telegram | 99x Message |
+
+## 👑 USER PREMIUM BAWAAN
+
+- `termux-user-001` (Premium)
+- `termux-user-002` (Premium)
+- `termux-user-003` (Premium)
+- `termux-user-004` (Premium)
+- `termux-user-005` (Premium)
+- `92e6a6f61a9563138f8e` (ADMIN)
+
+## 🚀 INSTALLASI
+
+```bash
+git clone https://github.com/username_github_kamu/BIOS99X-Tools.git
+cd BIOS99X-Tools
+chmod +x install.sh
+./install.sh
